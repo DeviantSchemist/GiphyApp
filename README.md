@@ -1,1 +1,1 @@
-# GiphyApp
+# Giphy App
